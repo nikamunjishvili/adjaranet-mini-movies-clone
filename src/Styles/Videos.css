@@ -1,0 +1,54 @@
+body{
+    overflow-x: hidden;
+}
+.movies-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.movies-container img{
+    width: 300px;
+    height: 500px;
+    border-radius: 18px;
+}
+.movies-container h3, .movies-container img{
+    cursor: pointer;
+    transition: .7s;
+}
+@media only screen and (max-width: 992px) {
+    .movies-container img{
+        width: 200px;
+        height: 300px;
+    }
+}
+.movies-container h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: -10px;
+
+}
+#smaler-text{
+    width: 100%;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+.movies-container img:hover{
+    transform: scale(1.05);
+}
+#container{
+    position: relative;
+}
+#playIcon{
+    position: absolute;
+    bottom: 70px;
+    top: 45%;
+    left: 45%;
+    visibility: visible;
+    z-index: 100;
+    cursor: pointer;
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+}

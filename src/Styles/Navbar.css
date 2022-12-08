@@ -1,0 +1,64 @@
+#nav{
+    display: flex;
+    align-items: center;
+    margin-left:20%;
+}
+#nav span{
+    margin: 50px;
+}
+@media screen and (min-width:1200px){
+     .icon i{
+        color: #fff;
+    }
+}
+nav a {
+    text-decoration: none;
+}
+ .Logo{
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    background-color: rgb(52, 52, 246);
+    align-items: center;
+    display: inline-block;
+    text-align: center;
+    background-position: center;
+}
+ span{
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 40px;
+    text-transform: uppercase;
+}
+span:hover{
+    color: #fff;
+    transition: 0.5s;
+}
+#icon{
+    position:absolute;
+    top:10px;
+    left:15.5%;
+    font-size: 25px;
+    color: #000000;
+}
+#icon2{
+    position:absolute;
+    top:13px;
+    left:23.5%;
+    font-size: 22px;
+    color: #000000;
+}
+#icon3{
+    position:absolute;
+    top:13px;
+    left:32.3%;
+    font-size: 22px;
+    color: #000000;
+}
+#icon4{
+    position:absolute;
+    top:13px;
+    left:38.3%;
+    font-size: 22px;
+    color: #000000;
+}
