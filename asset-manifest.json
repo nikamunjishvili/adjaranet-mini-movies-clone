@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/adjaranet-mini-movies-clone/static/css/main.6c924f80.css",
+    "main.js": "/adjaranet-mini-movies-clone/static/js/main.e5f3d5f7.js",
+    "static/media/wednsday.jpg": "/adjaranet-mini-movies-clone/static/media/wednsday.befc0d2f5a72edbba89b.jpg",
+    "static/media/king.jpeg": "/adjaranet-mini-movies-clone/static/media/king.a7dfb78da838a8d2dc6a.jpeg",
+    "static/media/num.webp": "/adjaranet-mini-movies-clone/static/media/num.4a42717eab00c667dd80.webp",
+    "static/media/error-icon-32.png": "/adjaranet-mini-movies-clone/static/media/error-icon-32.76374ff168e1e97f318b.png",
+    "index.html": "/adjaranet-mini-movies-clone/index.html",
+    "main.6c924f80.css.map": "/adjaranet-mini-movies-clone/static/css/main.6c924f80.css.map",
+    "main.e5f3d5f7.js.map": "/adjaranet-mini-movies-clone/static/js/main.e5f3d5f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c924f80.css",
+    "static/js/main.e5f3d5f7.js"
+  ]
+}
